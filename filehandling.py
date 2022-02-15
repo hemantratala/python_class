@@ -1,0 +1,1 @@
+file_content=open("file.txt")
