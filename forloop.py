@@ -1,4 +1,4 @@
-my_list = [1,2,2,3,1,4,5,1,2,6]
+my_list = [1,2,1,5,9,5,6]
 myFinallist = []
 for i in my_list:
     if i not in myFinallist:
