@@ -7,3 +7,4 @@ file=open("test.txt","w")
 for i in f:
     file.write(i)
 file.close()
+
